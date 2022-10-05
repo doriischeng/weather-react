@@ -16,7 +16,7 @@ a {
   text-decoration: none;
 }
 
-.weather-app-wrapper {
+.container-wrapper {
   max-width: 600px;
   margin: 50px auto;
 }
